@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Rakesh Ghodasara is a data and cloud enthusiast and 
+Rakesh Ghodasara is a data and cloud enthusiast.
