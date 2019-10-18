@@ -3,7 +3,7 @@ title: Best EC2 Instance for Hosting a Database
 date: 2019-10-18
 math: false
 diagram: false
-tags: aws, ec2, database
+tags: [aws, ec2, database]
 markup: mmark
 ---
 
