@@ -81,4 +81,4 @@ For in-memory databases like SAP Hana or Apache Ignite or Redis Cache use the **
 ### Nimble Size Database :
 For small sized database use the m-family or c-family instance.
 
-No matter what instance fits your needs make sure to control your costs using Reserved instances and plan for disaster recovery.
+A> No matter what instance fits your needs make sure to control your costs using Reserved instances and plan for disaster recovery.
