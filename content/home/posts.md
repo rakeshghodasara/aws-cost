@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-#title = "Recent Posts"
+title = "Recent Articles"
 #subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ weight = 10  # Order that this section will appear.
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
