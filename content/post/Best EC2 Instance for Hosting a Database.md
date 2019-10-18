@@ -1,3 +1,11 @@
+---
+title: Best EC2 Instance for Hosting a Database
+date: 2019-10-18
+math: false
+diagram: false
+markup: mmark
+---
+
 The cloud services are selling like hot cakes and by far the AWS - Amazon Web Services has the biggest pie of the cake.  The public cloud provides you very high flexibility and ability to spin up the infrastructure within minutes rather than working through corporate procurement and spend weeks and months of time.  The three most used and basic infrastructure need why people move to cloud are
 
 - Compute infrastructure
