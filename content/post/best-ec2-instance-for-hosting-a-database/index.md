@@ -6,7 +6,7 @@ diagram: false
 tags: [aws, ec2, database]
 markup: mmark
 image:
-  placement: 2
+  placement: 1
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
